@@ -2,4 +2,6 @@
 
 ## start
 
+```sh
 cargo tauri dev
+```
